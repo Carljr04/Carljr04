@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Carl 👋
 
-<!--
-**Carljr04/Carljr04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at Technological University Dublin.
 
-Here are some ideas to get you started:
+💻 Interested in embedded systems, microcontrollers, electronics and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Technologies I work with**
+- **Languages:** C, C++, JavaScript
+- **Microcontrollers:** Arduino Uno, ATmega328P, ESP32, ESP8266
+- **Tools:** VS Code, PlatformIO, Arduino IDE, MATLAB
+- **Hardware:** Sensors, LCD interfaces, relays and circuit assembly
+
+📌 **Projects**
+- Environmental Monitoring & Fan Control System — ATmega328P, sensor integration and automated control.
+- Battle Robot — Arduino-based robot with infrared and ultrasonic sensing.
+
+🚀 Currently building my engineering portfolio and developing my embedded systems skills.
