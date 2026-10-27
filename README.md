@@ -4,7 +4,7 @@
 
 💻 Interested in embedded systems, microcontrollers, electronics and software development.
 
-🛠️ **Technologies I work with**
+🛠️ **Technical skills**
 - **Languages:** C, C++, JavaScript
 - **Microcontrollers:** Arduino Uno, ATmega328P, ESP32, ESP8266
 - **Tools:** VS Code, PlatformIO, Arduino IDE, MATLAB
